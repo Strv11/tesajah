@@ -4,7 +4,6 @@
 #salam coli
 
 
-import mantan,janda_sebelah #hapus
 import requests,bs4,json,os,sys,random,datetime,time,re
 try:
 	import rich
